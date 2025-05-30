@@ -1,7 +1,6 @@
 <h1 align="center">Heyy 👋 Hardik Vanza here!</h1>
 
 <p align="center"><b>Full Stack Dev</b> | Building awesome web projects 🚀 <br> I'm looking to collaborate on Web Dev Projects 🤝<br>I love singing & playing guitar ⚡</p>
-
 <h3><span style="color: #ff69b4;">💻 Tech Stack:</span></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -26,17 +25,14 @@
   <span>
     <h3><span style="color: #ff69b4;">📊 Most Used Languages</span></h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik1533&layout=compact&theme=radical" alt="Top Langs" />
+    
   </span>
-      
   <span>
     <h3><span style="color: #ff69b4;">✌️ Hardik Vanza's GitHub Stats:</span></h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=hardik1533&show_icons=true&theme=radical" alt="GitHub Stats" />
-        
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik1533&theme=radical" alt="Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hardik1533&show_icons=true&theme=radical" alt="GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik1533&theme=radical" alt="Streak Stats" />
   </span>
 </p>
 
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardik1533&color=ff69b4" alt="Profile views" />
 </p>
